@@ -1,0 +1,579 @@
+[21-Feb-2020 19:39:44 Europe/Lisbon] PHP Warning:  exif_read_data(phpjM2a4V): Illegal IFD size in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[02-Mar-2020 07:59:49 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[02-Mar-2020 07:59:50 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[02-Mar-2020 08:00:06 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[02-Mar-2020 08:00:06 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[02-Mar-2020 08:02:09 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[02-Mar-2020 08:02:09 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[02-Mar-2020 08:02:22 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[02-Mar-2020 08:02:22 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[02-Mar-2020 17:17:36 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[02-Mar-2020 17:17:36 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[02-Mar-2020 17:19:23 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[02-Mar-2020 17:19:23 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[04-Mar-2020 11:04:14 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[04-Mar-2020 11:04:14 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[04-Mar-2020 11:04:28 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[04-Mar-2020 11:04:28 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[22-Apr-2020 16:23:12 Europe/Lisbon] PHP Warning:  exif_read_data(phpEjmeGe): Illegal IFD size in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[22-Apr-2020 16:23:12 Europe/Lisbon] PHP Warning:  exif_read_data(phpkh0bVa): Illegal IFD size in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[21-May-2020 19:58:59 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[21-May-2020 19:58:59 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[21-May-2020 19:58:59 Europe/Lisbon] PHP Warning:  exif_read_data(phpBIWCpo): Illegal IFD size in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[25-May-2020 12:43:28 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 12:43:28 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 12:43:33 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 21328001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[25-May-2020 14:06:09 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 14:06:09 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 14:06:10 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 21328001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[25-May-2020 14:07:31 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 14:07:31 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 14:07:31 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 21328001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[25-May-2020 14:14:03 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 14:14:03 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 14:14:14 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 14:14:14 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 14:14:28 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 14:14:28 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 14:14:28 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 21328001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[25-May-2020 14:38:50 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 14:38:50 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 14:38:50 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 21328001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[25-May-2020 14:50:36 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 14:50:36 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 14:50:36 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 21328001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[25-May-2020 15:12:49 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[25-May-2020 15:12:49 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[25-May-2020 15:13:35 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 15:13:35 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 15:13:36 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 21328001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[25-May-2020 15:55:45 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[25-May-2020 15:55:45 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[25-May-2020 16:05:03 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:05:03 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:05:03 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 21328001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[25-May-2020 16:08:59 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:08:59 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:09:36 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:09:36 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:09:36 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 21328001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[25-May-2020 16:12:48 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:12:48 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:12:49 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 21328001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[25-May-2020 16:17:53 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:17:53 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:17:59 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 21328001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[25-May-2020 16:19:04 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:19:04 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:19:04 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 21328001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[25-May-2020 16:24:23 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:24:23 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:24:35 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:24:35 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:24:45 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:24:45 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:24:57 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:24:57 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:25:09 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:25:09 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:25:23 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:25:23 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:25:44 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:25:44 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:26:00 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:26:00 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:26:13 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:26:13 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:26:23 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:26:23 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:26:31 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[25-May-2020 16:26:31 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[25-May-2020 16:27:42 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[25-May-2020 16:27:42 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[25-May-2020 16:35:53 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[25-May-2020 16:35:53 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[25-May-2020 16:36:04 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[25-May-2020 16:36:04 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[25-May-2020 16:52:56 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[25-May-2020 16:52:56 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[08-Jul-2020 08:23:32 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 08:23:32 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 08:26:13 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 08:26:13 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 08:27:46 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 08:27:46 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 08:28:58 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 08:28:58 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 08:30:02 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 08:30:02 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 08:31:07 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 08:31:07 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 08:31:30 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 08:31:30 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 08:33:17 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 08:33:17 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 08:34:10 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[08-Jul-2020 08:34:10 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[08-Jul-2020 09:43:37 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 09:43:37 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 09:53:31 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 09:53:31 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 09:54:09 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 09:54:09 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 09:55:21 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 09:55:21 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 09:55:56 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 09:55:56 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 09:56:21 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 09:56:21 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 09:56:43 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 09:56:43 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 09:58:30 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 09:58:30 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 10:01:36 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 10:01:36 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 10:03:17 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 10:03:17 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 10:04:36 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 10:04:36 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 10:07:02 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 10:07:02 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 10:08:42 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 10:08:42 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 10:09:00 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 10:09:00 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 10:09:44 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 10:09:44 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 10:10:08 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[08-Jul-2020 10:10:08 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[08-Jul-2020 14:52:34 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 14:52:34 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 14:52:59 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 14:52:59 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 14:54:05 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 14:54:05 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 14:54:20 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 14:54:20 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 14:54:36 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 14:54:36 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 14:54:55 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 14:54:55 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 14:57:28 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 14:57:28 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 15:00:54 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[08-Jul-2020 15:00:54 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[08-Jul-2020 15:41:27 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 15:41:27 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 15:47:45 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 15:47:45 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 15:47:59 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 15:47:59 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 15:49:39 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 15:49:39 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 15:50:26 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 15:50:26 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 15:57:59 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 15:57:59 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 15:58:13 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 15:58:13 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 15:58:34 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 15:58:34 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 15:58:54 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 15:58:54 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 16:00:37 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[08-Jul-2020 16:00:37 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[08-Jul-2020 16:07:44 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[08-Jul-2020 16:07:44 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[08-Jul-2020 19:20:56 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[08-Jul-2020 19:20:56 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[08-Jul-2020 19:21:04 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[08-Jul-2020 19:21:04 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[08-Jul-2020 19:21:11 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[08-Jul-2020 19:21:11 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[08-Jul-2020 19:21:17 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[08-Jul-2020 19:21:17 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[09-Jul-2020 22:21:15 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[09-Jul-2020 22:21:15 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[09-Jul-2020 22:21:26 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[09-Jul-2020 22:21:26 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[09-Jul-2020 22:21:35 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[09-Jul-2020 22:21:35 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[09-Jul-2020 22:21:55 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[09-Jul-2020 22:21:55 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[10-Jul-2020 16:20:40 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[10-Jul-2020 16:20:40 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[10-Jul-2020 16:21:38 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[10-Jul-2020 16:21:38 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[10-Jul-2020 16:22:15 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[10-Jul-2020 16:22:15 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[10-Jul-2020 16:24:48 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[10-Jul-2020 16:24:48 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[10-Jul-2020 16:29:17 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[10-Jul-2020 16:29:17 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[10-Jul-2020 16:56:28 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[10-Jul-2020 16:56:28 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[10-Jul-2020 17:06:36 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[10-Jul-2020 17:06:36 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[28-Jul-2020 15:54:19 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[28-Jul-2020 15:54:19 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[28-Jul-2020 15:56:17 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[28-Jul-2020 15:56:17 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[28-Jul-2020 15:57:20 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[28-Jul-2020 15:57:20 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[28-Jul-2020 15:58:25 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[28-Jul-2020 15:58:25 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[28-Jul-2020 15:58:38 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[28-Jul-2020 15:58:38 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[28-Jul-2020 16:00:46 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[28-Jul-2020 16:00:46 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[28-Jul-2020 16:01:14 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[28-Jul-2020 16:01:14 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[28-Jul-2020 16:01:37 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[28-Jul-2020 16:01:37 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[28-Jul-2020 16:02:32 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[28-Jul-2020 16:02:32 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[28-Jul-2020 16:02:51 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[28-Jul-2020 16:02:51 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[28-Jul-2020 16:03:13 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[28-Jul-2020 16:03:13 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[28-Jul-2020 16:07:08 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[28-Jul-2020 16:07:08 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[28-Jul-2020 16:15:36 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[28-Jul-2020 16:15:36 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[28-Jul-2020 16:26:01 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[28-Jul-2020 16:26:01 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[29-Jul-2020 12:40:30 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[29-Jul-2020 12:40:30 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[04-Aug-2020 10:08:05 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[04-Aug-2020 10:08:05 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[11-Aug-2020 11:10:19 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[11-Aug-2020 11:10:19 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[11-Aug-2020 11:12:32 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[11-Aug-2020 11:12:32 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[11-Aug-2020 11:12:51 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[11-Aug-2020 11:12:51 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[11-Aug-2020 11:16:40 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[11-Aug-2020 11:16:40 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[11-Aug-2020 11:17:00 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[11-Aug-2020 11:17:00 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[11-Aug-2020 11:17:18 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[11-Aug-2020 11:17:18 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[11-Aug-2020 11:17:38 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[11-Aug-2020 11:17:38 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[11-Aug-2020 11:20:58 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[11-Aug-2020 11:20:58 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[11-Aug-2020 11:23:50 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[11-Aug-2020 11:23:50 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[11-Aug-2020 11:25:23 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[11-Aug-2020 11:25:23 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[11-Aug-2020 11:26:31 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[11-Aug-2020 11:26:31 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[11-Aug-2020 13:32:15 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[11-Aug-2020 13:32:15 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[11-Aug-2020 13:45:23 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[11-Aug-2020 13:45:23 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[11-Aug-2020 13:49:49 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[11-Aug-2020 13:49:49 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[13-Aug-2020 19:13:30 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[13-Aug-2020 19:13:30 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[16-Aug-2020 23:10:54 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[16-Aug-2020 23:10:54 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[19-Aug-2020 12:25:38 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[19-Aug-2020 12:25:38 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[19-Aug-2020 12:25:43 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[19-Aug-2020 12:25:43 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[19-Aug-2020 15:01:30 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[19-Aug-2020 15:01:30 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[19-Aug-2020 17:33:15 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[19-Aug-2020 17:33:15 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[21-Aug-2020 16:45:47 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[21-Aug-2020 16:45:47 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[21-Aug-2020 16:45:53 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[21-Aug-2020 16:45:53 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[21-Aug-2020 17:24:18 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[21-Aug-2020 17:24:18 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[01-Sep-2020 18:03:26 Europe/Lisbon] PHP Warning:  exif_read_data(php2WEgzX): Illegal IFD size in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[03-Sep-2020 09:59:12 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[03-Sep-2020 09:59:12 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[11-Sep-2020 09:39:41 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[11-Sep-2020 09:39:41 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[15-Sep-2020 11:35:48 Europe/Lisbon] PHP Notice:  Undefined index: id_user in /home/samachadocom/public_html/admin/_tarefa/trabalho.php on line 6
+[15-Sep-2020 11:35:48 Europe/Lisbon] PHP Warning:  exif_read_data(phpWwAHGt): Illegal IFD size: x0003 + 2 + x4D00*12 = x39C03 &gt; x00C1 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[23-Sep-2020 17:36:59 Europe/Lisbon] PHP Warning:  exif_read_data(php4VB2zV): File not supported in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[08-Oct-2020 15:33:27 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[08-Oct-2020 15:50:30 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[08-Oct-2020 20:25:19 Europe/Lisbon] PHP Notice:  Undefined variable: iª in /home/samachadocom/public_html/admin/_tarefa/trabalho.php on line 594
+[08-Oct-2020 20:25:19 Europe/Lisbon] PHP Notice:  Undefined variable: iª in /home/samachadocom/public_html/admin/_tarefa/trabalho.php on line 594
+[08-Oct-2020 20:25:19 Europe/Lisbon] PHP Notice:  Undefined variable: iª in /home/samachadocom/public_html/admin/_tarefa/trabalho.php on line 594
+[09-Oct-2020 10:29:24 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 29440 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[10-Oct-2020 09:54:03 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[10-Oct-2020 09:54:03 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[10-Oct-2020 09:55:24 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[10-Oct-2020 09:55:24 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[10-Oct-2020 09:58:01 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[10-Oct-2020 09:58:01 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[13-Nov-2020 11:54:01 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[13-Nov-2020 11:54:01 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[13-Nov-2020 11:54:10 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[13-Nov-2020 11:54:10 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[13-Nov-2020 14:40:43 Europe/Lisbon] PHP Notice:  Undefined index: id_user in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 6
+[13-Nov-2020 14:40:43 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[13-Nov-2020 14:40:43 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[13-Nov-2020 14:42:33 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[13-Nov-2020 14:42:33 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[13-Nov-2020 14:44:01 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[13-Nov-2020 14:44:01 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[13-Nov-2020 14:44:14 Europe/Lisbon] PHP Warning:  exif_read_data(phpEDXG26): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[13-Nov-2020 14:44:15 Europe/Lisbon] PHP Warning:  exif_read_data(php8pMtnF): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[13-Nov-2020 14:44:16 Europe/Lisbon] PHP Warning:  exif_read_data(phpmC4Mhk): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[13-Nov-2020 14:44:17 Europe/Lisbon] PHP Warning:  exif_read_data(phpg3cpw3): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[13-Nov-2020 14:44:18 Europe/Lisbon] PHP Warning:  exif_read_data(phpEKI5oQ): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[13-Nov-2020 14:44:18 Europe/Lisbon] PHP Warning:  exif_read_data(phpwfuocH): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[13-Nov-2020 14:44:19 Europe/Lisbon] PHP Warning:  exif_read_data(phpB3rljF): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[13-Nov-2020 14:44:20 Europe/Lisbon] PHP Warning:  exif_read_data(phptuoCUG): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[13-Nov-2020 14:44:21 Europe/Lisbon] PHP Warning:  exif_read_data(phpKzdTeM): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[13-Nov-2020 14:44:22 Europe/Lisbon] PHP Warning:  exif_read_data(php9mvA3U): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[16-Nov-2020 20:29:40 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[16-Nov-2020 20:29:40 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[16-Nov-2020 20:29:49 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[16-Nov-2020 20:29:49 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[19-Nov-2020 16:12:06 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[19-Nov-2020 16:12:06 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[19-Nov-2020 17:19:23 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[19-Nov-2020 17:19:23 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[27-Nov-2020 12:48:50 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[27-Nov-2020 12:48:50 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[27-Nov-2020 12:48:56 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[27-Nov-2020 12:48:56 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[27-Nov-2020 12:54:29 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[27-Nov-2020 12:54:29 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[27-Nov-2020 12:57:18 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[27-Nov-2020 12:57:18 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[27-Nov-2020 15:24:52 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[27-Nov-2020 15:24:52 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[27-Nov-2020 15:24:58 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[27-Nov-2020 15:24:58 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[27-Nov-2020 15:26:51 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[27-Nov-2020 15:26:51 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[27-Nov-2020 15:28:27 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[27-Nov-2020 15:28:27 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[27-Nov-2020 15:28:42 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[27-Nov-2020 15:28:42 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[27-Nov-2020 15:28:48 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[27-Nov-2020 15:28:48 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[27-Nov-2020 16:01:10 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[27-Nov-2020 16:01:10 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[27-Nov-2020 16:01:17 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[27-Nov-2020 16:01:17 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[27-Nov-2020 18:47:11 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[27-Nov-2020 18:47:11 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[27-Nov-2020 18:47:32 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[27-Nov-2020 18:47:32 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[30-Nov-2020 08:08:42 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[30-Nov-2020 08:08:42 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[09-Dec-2020 18:22:36 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[09-Dec-2020 18:22:36 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[09-Dec-2020 19:04:35 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[09-Dec-2020 19:04:35 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[09-Dec-2020 19:05:45 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[09-Dec-2020 19:05:45 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[09-Dec-2020 19:05:45 Europe/Lisbon] PHP Warning:  exif_read_data(phpjCFOrI): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[09-Dec-2020 19:05:46 Europe/Lisbon] PHP Warning:  exif_read_data(phpvtxiUB): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[09-Dec-2020 19:05:46 Europe/Lisbon] PHP Warning:  exif_read_data(phpTwadiN): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[09-Dec-2020 19:07:35 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[09-Dec-2020 19:07:35 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[09-Dec-2020 19:07:35 Europe/Lisbon] PHP Warning:  exif_read_data(phpYM44Vg): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[09-Dec-2020 19:07:36 Europe/Lisbon] PHP Warning:  exif_read_data(phpgfFBWy): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[09-Dec-2020 19:07:36 Europe/Lisbon] PHP Warning:  exif_read_data(php3zRkH7): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[09-Dec-2020 19:07:37 Europe/Lisbon] PHP Warning:  exif_read_data(phpSqaZRZ): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[09-Dec-2020 19:09:19 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[09-Dec-2020 19:09:19 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[09-Dec-2020 19:09:19 Europe/Lisbon] PHP Warning:  exif_read_data(phpHgKesP): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[09-Dec-2020 19:09:19 Europe/Lisbon] PHP Warning:  exif_read_data(phpUmPyxP): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[09-Dec-2020 19:09:20 Europe/Lisbon] PHP Warning:  exif_read_data(phpZipTt1): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[09-Dec-2020 19:09:20 Europe/Lisbon] PHP Warning:  exif_read_data(phpKM9Dc3): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[09-Dec-2020 19:14:52 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[09-Dec-2020 19:14:52 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[09-Dec-2020 19:15:39 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[09-Dec-2020 19:15:39 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[13-Dec-2020 15:56:58 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[13-Dec-2020 15:56:58 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[18-Dec-2020 16:40:34 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[18-Dec-2020 16:40:34 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[11-Jan-2021 14:59:22 Europe/Lisbon] PHP Notice:  Undefined index: id_user in /home/samachadocom/public_html/admin/_tarefa/trabalho.php on line 6
+[11-Jan-2021 15:14:28 Europe/Lisbon] PHP Notice:  Undefined index: id in /home/samachadocom/public_html/admin/_tarefa/trabalho.php on line 13
+[11-Jan-2021 15:14:28 Europe/Lisbon] PHP Notice:  Undefined index: botao in /home/samachadocom/public_html/admin/_tarefa/trabalho.php on line 14
+[13-Jan-2021 16:20:27 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[13-Jan-2021 16:23:58 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[13-Jan-2021 16:26:15 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[13-Jan-2021 16:26:45 Europe/Lisbon] PHP Warning:  exif_read_data(phpWmBrLD): File not supported in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[13-Jan-2021 16:26:55 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[13-Jan-2021 16:27:54 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[13-Jan-2021 16:29:05 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 66
+[13-Jan-2021 16:31:36 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[13-Jan-2021 16:32:53 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[13-Jan-2021 16:33:36 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[13-Jan-2021 16:37:54 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[13-Jan-2021 16:38:54 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[13-Jan-2021 16:39:46 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[13-Jan-2021 16:42:38 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[04-Feb-2021 09:30:12 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 66
+[04-Feb-2021 09:41:10 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30000 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[04-Feb-2021 10:09:26 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 7500 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 65
+[12-Mar-2021 10:02:20 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 10:02:20 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 10:03:31 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 10:03:31 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 10:04:03 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 10:04:03 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 10:04:16 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 10:04:16 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 10:05:10 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 10:05:10 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 10:12:35 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 10:12:35 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 10:12:48 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 10:12:48 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 10:13:01 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 10:13:01 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 10:43:07 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 10:43:07 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 10:43:24 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[12-Mar-2021 10:43:24 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[12-Mar-2021 11:16:47 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 11:16:47 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 11:19:02 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 11:19:02 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 11:21:47 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 11:21:47 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 11:22:37 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 11:22:37 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 11:24:28 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 11:24:28 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 11:27:23 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 11:27:23 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 11:29:20 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 11:29:20 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 11:29:21 Europe/Lisbon] PHP Warning:  exif_read_data(phpBk3yJG): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[12-Mar-2021 11:29:21 Europe/Lisbon] PHP Warning:  exif_read_data(phpYdX8AP): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[12-Mar-2021 11:29:22 Europe/Lisbon] PHP Warning:  exif_read_data(phpZg3Lp0): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[12-Mar-2021 11:29:23 Europe/Lisbon] PHP Warning:  exif_read_data(php4wMukd): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[12-Mar-2021 11:29:53 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 11:29:53 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 11:31:06 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 11:31:06 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 11:33:09 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 11:33:09 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 11:34:02 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 11:34:02 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 11:34:13 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[12-Mar-2021 11:34:13 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[12-Mar-2021 11:34:56 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[12-Mar-2021 11:34:56 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[12-Mar-2021 11:36:49 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[12-Mar-2021 11:36:49 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[12-Mar-2021 11:36:49 Europe/Lisbon] PHP Warning:  exif_read_data(phpzJLCFG): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[12-Mar-2021 11:36:50 Europe/Lisbon] PHP Warning:  exif_read_data(phpzCuMtx): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[12-Mar-2021 11:36:50 Europe/Lisbon] PHP Warning:  exif_read_data(phpSA8Pnq): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[12-Mar-2021 11:36:51 Europe/Lisbon] PHP Warning:  exif_read_data(phpvMy61k): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[12-Mar-2021 11:36:52 Europe/Lisbon] PHP Warning:  exif_read_data(phpvzzxKh): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[12-Mar-2021 11:36:52 Europe/Lisbon] PHP Warning:  exif_read_data(phppgzpfg): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[12-Mar-2021 11:36:53 Europe/Lisbon] PHP Warning:  exif_read_data(phpgqJOwh): IFD data bad offset: 0xFFFFFD8E length 0x0EFA in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[12-Mar-2021 11:37:49 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[12-Mar-2021 11:37:49 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[12-Mar-2021 15:53:06 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[12-Mar-2021 15:53:06 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[12-Mar-2021 15:53:16 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[12-Mar-2021 15:53:16 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[14-Mar-2021 13:15:29 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[14-Mar-2021 13:15:29 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[17-Mar-2021 19:51:47 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[17-Mar-2021 19:51:47 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[19-Mar-2021 14:40:38 Europe/Lisbon] PHP Warning:  exif_read_data(phpm3Ptws): Illegal IFD size: x0003 + 2 + x4D00*12 = x39C03 &gt; x00FB in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[26-Mar-2021 10:12:50 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[26-Mar-2021 10:12:50 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[26-Mar-2021 10:12:51 Europe/Lisbon] PHP Warning:  exif_read_data(phptkXrvt): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[26-Mar-2021 10:13:11 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[26-Mar-2021 10:13:11 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[27-Mar-2021 08:53:43 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[27-Mar-2021 08:53:43 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[29-Mar-2021 17:20:25 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[29-Mar-2021 17:20:25 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[01-Apr-2021 13:22:26 Europe/Lisbon] PHP Notice:  Undefined index: id in /home/samachadocom/public_html/admin/_tarefa/trabalho.php on line 13
+[01-Apr-2021 13:22:26 Europe/Lisbon] PHP Notice:  Undefined index: botao in /home/samachadocom/public_html/admin/_tarefa/trabalho.php on line 14
+[01-Apr-2021 13:23:01 Europe/Lisbon] PHP Notice:  Undefined index: id in /home/samachadocom/public_html/admin/_tarefa/trabalho.php on line 13
+[01-Apr-2021 13:23:01 Europe/Lisbon] PHP Notice:  Undefined index: botao in /home/samachadocom/public_html/admin/_tarefa/trabalho.php on line 14
+[12-Apr-2021 16:56:17 Europe/Lisbon] PHP Warning:  exif_read_data(phpbmTGVD): File not supported in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[10-May-2021 17:08:39 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[10-May-2021 17:08:39 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[10-May-2021 17:38:02 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[10-May-2021 17:38:02 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[10-May-2021 17:38:07 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[10-May-2021 17:38:07 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[13-May-2021 18:16:38 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[13-May-2021 18:16:38 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[13-May-2021 18:16:59 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[13-May-2021 18:16:59 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[13-May-2021 18:17:00 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3648 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 23
+[14-May-2021 15:29:16 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[14-May-2021 15:29:16 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[14-May-2021 15:29:21 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[14-May-2021 15:29:21 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[17-May-2021 12:10:44 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[17-May-2021 12:10:44 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[17-May-2021 12:10:44 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 14592 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 23
+[17-May-2021 12:14:20 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[17-May-2021 12:14:20 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[17-May-2021 12:14:20 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 14592 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 23
+[17-May-2021 12:35:48 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[17-May-2021 12:35:48 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[17-May-2021 12:35:49 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24000001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[17-May-2021 12:39:59 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[17-May-2021 12:39:59 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[17-May-2021 12:40:01 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24000001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[17-May-2021 12:43:11 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[17-May-2021 12:43:11 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[17-May-2021 12:43:11 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24000001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[17-May-2021 12:49:26 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[17-May-2021 12:49:26 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[17-May-2021 12:49:26 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24000001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[17-May-2021 12:57:08 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[17-May-2021 12:57:08 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[17-May-2021 12:57:08 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24000001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[17-May-2021 12:57:19 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[17-May-2021 12:57:19 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[17-May-2021 12:57:19 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24000001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[17-May-2021 12:58:06 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[17-May-2021 12:58:06 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[17-May-2021 12:58:15 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[17-May-2021 12:58:15 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[17-May-2021 12:58:23 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[17-May-2021 12:58:23 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[17-May-2021 12:58:31 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[17-May-2021 12:58:31 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[17-May-2021 12:58:41 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[17-May-2021 12:58:41 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[17-May-2021 12:58:41 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24000001 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 51
+[24-May-2021 10:12:45 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[24-May-2021 10:12:45 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[28-Jun-2021 17:03:55 Europe/Lisbon] PHP Warning:  exif_read_data(phpitPcQF): Illegal IFD size in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[30-Jun-2021 14:48:46 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[30-Jun-2021 14:48:46 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[30-Jun-2021 14:48:47 Europe/Lisbon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 14592 bytes) in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 23
+[30-Jun-2021 15:35:21 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[30-Jun-2021 15:35:21 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676
+[16-Jul-2021 15:22:28 Europe/Lisbon] PHP Warning:  exif_read_data(phpnfwSYd): Illegal IFD size in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[16-Jul-2021 15:23:35 Europe/Lisbon] PHP Warning:  exif_read_data(phpSS5Ow1): Illegal IFD size in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[16-Jul-2021 15:24:12 Europe/Lisbon] PHP Warning:  exif_read_data(phpOmboFe): Illegal IFD size in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[29-Oct-2021 15:23:46 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[29-Oct-2021 15:23:46 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[29-Oct-2021 15:25:08 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[29-Oct-2021 15:25:08 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[29-Oct-2021 15:25:25 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 45
+[29-Oct-2021 15:25:25 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 46
+[29-Oct-2021 15:25:45 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 167
+[29-Oct-2021 15:25:45 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 168
+[29-Oct-2021 15:26:07 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 333
+[29-Oct-2021 15:26:07 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 334
+[29-Oct-2021 15:37:10 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 675
+[29-Oct-2021 15:37:10 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_tarefa/tarefa.php on line 676

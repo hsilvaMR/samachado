@@ -1,0 +1,52 @@
+[25-May-2020 17:29:21 Europe/Lisbon] PHP Notice:  Undefined index: id_user in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 6
+[10-Jul-2020 14:15:21 Europe/Lisbon] PHP Notice:  Undefined index: id_user in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 6
+[10-Jul-2020 15:38:07 Europe/Lisbon] PHP Notice:  Undefined index: id_user in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 6
+[04-Sep-2020 10:34:15 Europe/Lisbon] PHP Notice:  Undefined index: id_user in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 6
+[13-Nov-2020 12:54:01 Europe/Lisbon] PHP Warning:  exif_read_data(phpxKWlj5): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[13-Nov-2020 12:54:01 Europe/Lisbon] PHP Warning:  exif_read_data(phprrd2CN): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[13-Nov-2020 12:54:02 Europe/Lisbon] PHP Warning:  exif_read_data(phpPMLDXz): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[13-Nov-2020 12:54:02 Europe/Lisbon] PHP Warning:  exif_read_data(phpE0Z8Np): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[26-Nov-2020 15:58:18 Europe/Lisbon] PHP Notice:  Undefined index: id_user in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 6
+[26-Mar-2021 09:59:53 Europe/Lisbon] PHP Warning:  exif_read_data(phpbdoG3k): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[26-Mar-2021 10:00:11 Europe/Lisbon] PHP Warning:  exif_read_data(phprOgVyx): IFD data bad offset: 0xFFFFFCEA length 0x1682 in /home/samachadocom/public_html/admin/funcao/upload_img.php on line 6
+[17-Sep-2021 16:08:17 Europe/Lisbon] PHP Notice:  Undefined index: id_user in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 6
+[17-Sep-2021 16:08:17 Europe/Lisbon] PHP Notice:  Trying to access array offset on value of type null in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 8
+[17-Sep-2021 16:08:17 Europe/Lisbon] PHP Notice:  Trying to access array offset on value of type null in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 9
+[24-Sep-2021 10:43:58 Europe/Lisbon] PHP Notice:  Undefined index: id_user in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 6
+[24-Sep-2021 10:43:58 Europe/Lisbon] PHP Notice:  Trying to access array offset on value of type null in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 8
+[24-Sep-2021 10:43:58 Europe/Lisbon] PHP Notice:  Trying to access array offset on value of type null in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 9
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: id_user in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 6
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Trying to access array offset on value of type null in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 8
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Trying to access array offset on value of type null in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 9
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: id in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 13
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: referencia in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 14
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: nome in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 15
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: dono in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 17
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: id_categoria in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 18
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: area in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 19
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: prazo in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 20
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: subpiso in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 21
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: piso in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 22
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: inicio in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 23
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: fim in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 24
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: id_estado in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 25
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: valor in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 27
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: id_moeda in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 28
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: morada in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 29
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: latitude in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 30
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: longitude in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 31
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: id_pais in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 32
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: descricao in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 33
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: nome_en in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 34
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: nome_fr in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 35
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: nome_es in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 36
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: dono_en in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 37
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: dono_fr in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 38
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: dono_es in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 39
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: descricao_en in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 40
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: descricao_fr in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 41
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: descricao_es in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 42
+[24-Sep-2021 11:58:11 Europe/Lisbon] PHP Notice:  Undefined index: obs in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 45
+[11-Nov-2021 17:23:46 Europe/Lisbon] PHP Notice:  Undefined index: id_user in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 6
+[11-Nov-2021 17:23:46 Europe/Lisbon] PHP Notice:  Trying to access array offset on value of type null in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 8
+[11-Nov-2021 17:23:46 Europe/Lisbon] PHP Notice:  Trying to access array offset on value of type null in /home/samachadocom/public_html/admin/_portfolio/novo.php on line 9
